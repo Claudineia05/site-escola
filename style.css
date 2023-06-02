@@ -1,0 +1,15 @@
+header{ 
+    background-color: #424e61;
+    color: white;
+}
+
+.cabeçalho-imagem {
+    width: 12%;
+}
+
+.cabeçalho-lista-intem {
+display: inline-block;
+margin: 0 16px;
+font-size: 20px;
+
+}
