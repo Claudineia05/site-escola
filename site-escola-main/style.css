@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0; 
+
+
+}
+
+
+header{ 
+    background-color: #424e61;
+    color: white;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px  0;
+}
+
+.cabeçalho-imagem {
+    width: 12%;
+}
+
+.cabeçalho-lista-intem {
+display: inline-block;
+margin: 0 16px;
+font-size: 20px;
+
+}
+
+.escola-imagem{
+    width: 25%;
+}
